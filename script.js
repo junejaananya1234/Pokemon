@@ -1,5 +1,5 @@
 const body = document.querySelector("#parent");
-knowMore.addEventListener("onClick",)
+
 let limit = 100;
 let offset = 0;
 window.addEventListener("load", async ()=>{
